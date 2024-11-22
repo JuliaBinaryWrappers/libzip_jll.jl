@@ -2,7 +2,7 @@
 export libzip, zipcmp, zipmerge, ziptool
 
 using Bzip2_jll
-using GnuTLS_jll
+using OpenSSL_jll
 using XZ_jll
 using Zlib_jll
 using Zstd_jll
@@ -12,7 +12,7 @@ JLLWrappers.@declare_executable_product(zipcmp)
 JLLWrappers.@declare_executable_product(zipmerge)
 JLLWrappers.@declare_executable_product(ziptool)
 function __init__()
-    JLLWrappers.@generate_init_header(Bzip2_jll, GnuTLS_jll, XZ_jll, Zlib_jll, Zstd_jll)
+    JLLWrappers.@generate_init_header(Bzip2_jll, OpenSSL_jll, XZ_jll, Zlib_jll, Zstd_jll)
     JLLWrappers.@init_library_product(
         libzip,
         "lib/libzip.so",
