@@ -14,7 +14,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Bzip2_jll, XZ_jll, Zlib_jll, Zstd_jll)
     JLLWrappers.@init_library_product(
         libzip,
-        "lib/libzip.5.5.dylib",
+        "lib/libzip.5.6.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

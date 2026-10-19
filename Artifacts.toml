@@ -1,160 +1,160 @@
 [[libzip]]
 arch = "aarch64"
-git-tree-sha1 = "d4d12c9fef0975e07e451517252538c4ff0d4b84"
+git-tree-sha1 = "59ee89ddd80069c2cb54f6e410e1b46ae4908fb9"
 os = "macos"
 
     [[libzip.download]]
-    sha256 = "41f0bd77771d7c806169cc4651955977b1b15fba7c221d5f1a2278e7e5348da8"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "8a6d865a55ff67b55666fe5c94a0d8edcfd100bb31a242f538d2e15af49c9299"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.aarch64-apple-darwin.tar.gz"
 [[libzip]]
 arch = "aarch64"
-git-tree-sha1 = "256c14b67b506938da25cc1b9fa425d27ef08228"
+git-tree-sha1 = "341bb8942594795e5f8d05baf5cfc86a4ca600e4"
 libc = "glibc"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "ff281c5984300e589a5fbaf44327f7c0fc9c5229a2c3dc403c29f90dea0449fa"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "f6f0e6bc3b1e8ca8e07d172eef4c4664544792698e42b611c479e2aa1f322875"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.aarch64-linux-gnu.tar.gz"
 [[libzip]]
 arch = "aarch64"
-git-tree-sha1 = "346b59d7a39e3cd187b34e1bf51f0c9c4f1b6b1b"
+git-tree-sha1 = "4bcaf142f4c7c66ed57c3f47b86532ddff5c1988"
 libc = "musl"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "396d011a924b3b1974f796e3d59dc95f7a792bc72aee0c8c27e6dbd8a3dd2d1a"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.aarch64-linux-musl.tar.gz"
+    sha256 = "666a96e0237a1a6d7013140cd4bfc74ce57ac69d588c74fe900445145278f12e"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.aarch64-linux-musl.tar.gz"
 [[libzip]]
 arch = "aarch64"
-git-tree-sha1 = "c977732dfbc9b3512b68462783888d76f19e898f"
+git-tree-sha1 = "90d3371441cfd87bd6b6b5894391e444f297f5bd"
 os = "freebsd"
 
     [[libzip.download]]
-    sha256 = "c87cdbbfa002a2fdba1945f2c348a90227c2b04a17b560446f66134ff25b22b6"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "6168f49fa31e4a0b848e7e62e81f196a87cebedc47281da4bb9ac41fc996f882"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.aarch64-unknown-freebsd.tar.gz"
 [[libzip]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "b5fdcc2c3cbd83abef339d02407a66c8ab9bc5ef"
+git-tree-sha1 = "c9f6e634d818830f2ce0cc66c9a0c25f2e407022"
 libc = "glibc"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "eea4f81f22986f13e459d51676d48f72f7b01470a497ad26f13b5899bf2b3dbe"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "87fb4c2bd3ac79adae63dfd32a3c1d19e85cb5bb806b23bc1cca2d253d9bec26"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.armv6l-linux-gnueabihf.tar.gz"
 [[libzip]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "c401974fd5d57e99e050b8583fbd8309f828d2c5"
+git-tree-sha1 = "f2633668a15dfb8e0bbfdd6ac7ddb1f32ff71608"
 libc = "musl"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "a2a4bb9ed9d0f039b8c11f2ada2c892a6a812dd50d48e14971d871933202685d"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "90ed8ad047759b3ea11e5348a0a84e187cb40eb622ab72262718e319cd96c865"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.armv6l-linux-musleabihf.tar.gz"
 [[libzip]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "adf8001f2677b08c75f08a7e62065c5f3e32f492"
+git-tree-sha1 = "346bcd8ec070361ba3dfd3f6a8cec8e6f7734efd"
 libc = "glibc"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "01a4fc987f2e7a66f3f0d8e522ed1a1aa844c32cece458a1062bfc2f5df899a6"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "68e87a2e30b36c5d59a1ad0dc57017dc245b7cc265619ac212980bcb704e6dcd"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.armv7l-linux-gnueabihf.tar.gz"
 [[libzip]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1207b63f4fb2d21b73e0b83a3bdc4bf484d17ed8"
+git-tree-sha1 = "af1862a51ceddf7a1258339dc100499d8cb62672"
 libc = "musl"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "89fa2680ef3a46793596ffde262126f53247df90b568837eb9ef0115c39f08cb"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "180b428767eb38772995698f078614f175ff70cf1113ac022b57f5c204eec06f"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.armv7l-linux-musleabihf.tar.gz"
 [[libzip]]
 arch = "i686"
-git-tree-sha1 = "f2248caaed23b93054b0a699f129913922bf8f73"
+git-tree-sha1 = "061b4b5a356469c0f7aede7825825d6f3a65f140"
 libc = "glibc"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "73e170866cbc8e3d96a232d1dba68fba91b797ba61ad032209bd686d5dd92bd0"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.i686-linux-gnu.tar.gz"
+    sha256 = "742f3577c2c5b5eaa169bad56458eaf1908c6b9e1d3b15da831fd13ac0cea97a"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.i686-linux-gnu.tar.gz"
 [[libzip]]
 arch = "i686"
-git-tree-sha1 = "0413c52e4fe6eccd6eebc5f31a2cc66137c168a9"
+git-tree-sha1 = "87407304bcabb56de7a6151b8917eeb091d37eed"
 libc = "musl"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "8370f5d8ef9a3f7a39b3035f9222ef1addecb76a019256281bc9f5ba9aeb2d2a"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.i686-linux-musl.tar.gz"
+    sha256 = "4fd01cd0521430cc06f1c5849d771187fb7a24996bf06106e0888ffe9ed69e7a"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.i686-linux-musl.tar.gz"
 [[libzip]]
 arch = "i686"
-git-tree-sha1 = "4cee854040b5ea2d67f759b46b02e38cf0ac2f59"
+git-tree-sha1 = "7c655ec19f2f23772d3a15f5f84fb6b83bbdb350"
 os = "windows"
 
     [[libzip.download]]
-    sha256 = "6b093741bf529144390f0d6a69ede3a0021166c0edf321a18360ebf9e0afde0e"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.i686-w64-mingw32.tar.gz"
+    sha256 = "4651b37eb1827ff6b7e66f43633ecb772a26c9d4a1831620c0065473b70f3591"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.i686-w64-mingw32.tar.gz"
 [[libzip]]
 arch = "powerpc64le"
-git-tree-sha1 = "e34bdbe8a858848c66c884546b897b21d71cf67d"
+git-tree-sha1 = "b8be0c0114e575b43fe0ab4e4a69ce861a40ac70"
 libc = "glibc"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "7a986b41cd8e27fe732fe022324101eed4396ba6d43b5e95b8973c2b764352e9"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "6bc66a81941e1a73a9932253a9d464fd781352f7d4da1a02183afa606fa8eda2"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.powerpc64le-linux-gnu.tar.gz"
 [[libzip]]
 arch = "riscv64"
-git-tree-sha1 = "fa545e3b8c512210da7cd226753feb7cce296b52"
+git-tree-sha1 = "45eb868b4fcbf4988d2b074ce0d9583f57ea767f"
 libc = "glibc"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "f2e961f6f0073c71611366e5424c72272c30c3f362f51879f564eccb1498118f"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.riscv64-linux-gnu.tar.gz"
+    sha256 = "fbab9e04d74795fda1d505fd65b096a5b943289ac0892f93f87565500983e181"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.riscv64-linux-gnu.tar.gz"
 [[libzip]]
 arch = "x86_64"
-git-tree-sha1 = "97c1e9f06180b5e5ab4d6e212f6a524cfc29a118"
+git-tree-sha1 = "3b031c68f6ec10ee14fefd8157a4ce22be2e9a68"
 os = "macos"
 
     [[libzip.download]]
-    sha256 = "a84c751f19ffb7c40517490cf1d7e2e9c267660af0315d38eb3c0a06e20d37d2"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.x86_64-apple-darwin.tar.gz"
+    sha256 = "165ca3c8c710086ec4bae7576cfc0758dcac7fa6309951ecda78206815fd1327"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.x86_64-apple-darwin.tar.gz"
 [[libzip]]
 arch = "x86_64"
-git-tree-sha1 = "9dad07207c570a31dc3234185707ca03a5ec8a05"
+git-tree-sha1 = "9c027c639f5e0632510024a38471b7ae8d7b1df1"
 libc = "glibc"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "bbed60d31e2bcba93088d21426dfac7078773d3dad959dae24770ae0a701286d"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.x86_64-linux-gnu.tar.gz"
+    sha256 = "2151a659f10643cc4a910f60234d759e6a49fedc2cb844f58de382977f27848a"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.x86_64-linux-gnu.tar.gz"
 [[libzip]]
 arch = "x86_64"
-git-tree-sha1 = "7092a650b9b71b0e623da82a8e5ebbc723799c1d"
+git-tree-sha1 = "4ee9cea5baaf6c7e3a02a61b4ac97cb0e308d94c"
 libc = "musl"
 os = "linux"
 
     [[libzip.download]]
-    sha256 = "b9200af323a878597cd6b14a63f0611b0e158baa3f3feeaae6b00339edb9c16f"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.x86_64-linux-musl.tar.gz"
+    sha256 = "85819348ee04c4a0b8e972e37a2d10778fa535013d4c1ec4df944da1ba4caca7"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.x86_64-linux-musl.tar.gz"
 [[libzip]]
 arch = "x86_64"
-git-tree-sha1 = "2204b0077e9aa9dde0f1be061fe64ff088bfcf69"
+git-tree-sha1 = "7e753f794bfccf82b0ea7e857ae543249615462a"
 os = "freebsd"
 
     [[libzip.download]]
-    sha256 = "e81d75864110e4bedcd95acf80ef63ac144194b1032a696014cd03f7165a559d"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "e83768dde1575b4494a8dd8267a14ec7624844a418ef1d147dcecf239610913a"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.x86_64-unknown-freebsd.tar.gz"
 [[libzip]]
 arch = "x86_64"
-git-tree-sha1 = "c9bf24d2d3c9ec31b854bf51fde162b12670236b"
+git-tree-sha1 = "63298ad9be4f672aa242e62e557de522b03d0180"
 os = "windows"
 
     [[libzip.download]]
-    sha256 = "ddbc49d23cb544b06e27f3a91c7863e5221a142194c8a73c4219af4c1dcf6428"
-    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.11.4+0/libzip.v1.11.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "f5ac968fa71763ab884d7a0a8b4eaa05903824ebf9592a5c000b2fb3e4eca7a5"
+    url = "https://github.com/JuliaBinaryWrappers/libzip_jll.jl/releases/download/libzip-v1.12.1+0/libzip.v1.12.1.x86_64-w64-mingw32.tar.gz"
